@@ -8,10 +8,6 @@
 
 Check `nrf52/examples` for an overview of what can be done with the runtime.
 
-**NOTE** You need a rustc build that includes PR [rust-lang/rust#69033]
-
-[rust-lang/rust#69033]: https://github.com/rust-lang/rust/pull/69033
-
 ## License
 
 Licensed under either of
